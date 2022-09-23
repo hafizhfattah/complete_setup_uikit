@@ -8,6 +8,7 @@ Made With Flutter
 - Icon App Name
 - Animation Carousel OnBoarding/Introduction Page
 - System Methode OnBoarding/Introduction Page
+-- You Only Can See OnBoarding 1x Except You LogOut You Will Able To See OnBoarding Again
 
 ### 📄 **Page Include**
 - OnBoarding/Introduction Page
