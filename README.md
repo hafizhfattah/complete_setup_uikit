@@ -5,7 +5,7 @@ Made With Flutter
 
 ### 🎁 **Fiture**
 - Icon Logo
-- Icon App Name
+- App Name
 - Animation Carousel OnBoarding Page
 - System OnBoarding Page, You Only Can See OnBoarding 1x Except You LogOut You Will Able To See OnBoarding Again
 
