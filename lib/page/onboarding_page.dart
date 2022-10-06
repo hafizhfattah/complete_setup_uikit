@@ -49,27 +49,36 @@ class _OnBoardingState extends State<OnBoarding> {
             });
           },
           children: [
-            buildPage(
-                color: Colors.white,
-                urlImage:
-                    'https://cdn.dribbble.com/users/1350460/screenshots/9707394/studu1_4x.jpg',
-                title: 'Work From Anywhere',
-                desc:
-                    'Ullamco eiusmod aute duis voluptate do enim nisi reprehenderit.'),
-            buildPage(
-                color: Colors.white,
-                urlImage:
-                    'https://cdn.dribbble.com/users/508588/screenshots/15599820/tdv_m236_04_4x.jpg',
-                title: 'Enjoy & Simple To Use',
-                desc:
-                    'Ullamco eiusmod aute duis voluptate do enim nisi reprehenderit.'),
-            buildPage(
-                color: Colors.white,
-                urlImage:
-                    'https://cdni.iconscout.com/illustration/premium/thumb/boy-studying-at-home-5204466-4353658.png',
-                title: 'Focus When Study',
-                desc:
-                    'Ullamco eiusmod aute duis voluptate do enim nisi reprehenderit.'),
+            SingleChildScrollView(
+              controller: ScrollController(),
+              child: buildPage(
+                  color: Colors.white,
+                  urlImage:
+                      'https://cdn.dribbble.com/users/1350460/screenshots/9707394/studu1_4x.jpg',
+                  title: 'Work From Anywhere',
+                  desc:
+                      'Ullamco eiusmod aute duis voluptate do enim nisi reprehenderit.'),
+            ),
+            SingleChildScrollView(
+              controller: ScrollController(),
+              child: buildPage(
+                  color: Colors.white,
+                  urlImage:
+                      'https://cdn.dribbble.com/users/508588/screenshots/15599820/tdv_m236_04_4x.jpg',
+                  title: 'Enjoy & Simple To Use',
+                  desc:
+                      'Ullamco eiusmod aute duis voluptate do enim nisi reprehenderit.'),
+            ),
+            SingleChildScrollView(
+              controller: ScrollController(),
+              child: buildPage(
+                  color: Colors.white,
+                  urlImage:
+                      'https://cdni.iconscout.com/illustration/premium/thumb/boy-studying-at-home-5204466-4353658.png',
+                  title: 'Focus When Study',
+                  desc:
+                      'Ullamco eiusmod aute duis voluptate do enim nisi reprehenderit.'),
+            ),
           ],
         ),
       ),
