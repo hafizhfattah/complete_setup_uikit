@@ -78,6 +78,7 @@ flutter_native_splash:
     title="Main Screen"
     style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
 
+![Screen Shot 2022-10-07 at 18 39 51](https://user-images.githubusercontent.com/68719199/194545815-9094d8d3-9fa6-4f39-9bb3-98bebf7581d4.png)
 
     
     
