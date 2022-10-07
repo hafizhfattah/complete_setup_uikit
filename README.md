@@ -7,6 +7,7 @@ Made With Flutter
 - Icon Logo
 - App Name
 - Splash Screen
+- Custom TabBar
 - Animation Carousel OnBoarding Page
 - System OnBoarding Page, You Only Can See OnBoarding 1x Except You LogOut You Will Able To See OnBoarding Again
 
@@ -82,11 +83,6 @@ flutter:
     title="Main Screen"
     style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
 
-<img
-    src="/assets/markdown//image5.png"
-    alt="Main Screen"
-    title="Main Screen"
-    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
 
     
     
