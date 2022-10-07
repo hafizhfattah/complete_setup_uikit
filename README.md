@@ -18,19 +18,21 @@ Made With Flutter
 ### 🎖  **Installing**
 ```
 dependencies:
-  cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
+  cupertino_icons: ^1.0.2
+  flashy_tab_bar2: ^0.0.4
   flutter_native_splash: ^2.2.9
   google_fonts: null
   shared_preferences: ^2.0.15
   smooth_page_indicator: ^1.0.0+2
+  tab_indicator_styler: ^2.0.0
 
 dev_dependencies:
-  flutter_launcher_icons: "^0.10.0"
-  flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: "^0.10.0"
+  flutter_lints: ^2.0.0
 
 # flutter pub run flutter_launcher_icons:main
 flutter_icons:
@@ -43,13 +45,6 @@ flutter_icons:
 flutter_native_splash:
   color: "#ffffff"
   image: assets/flutter.png
-
-flutter:
-  uses-material-design: true
-  assets:
-    - assets/logo.png
-    - assets/flutter.png
-
 ```
 
 ### 🚀 **Getting Started**
@@ -57,7 +52,7 @@ flutter:
 2. Run `flutter pub get` In Terminal
 3. Run the project In Web or Emulator
 
-### 📷 **Screenshots**
+### 📷 **Demo**
 
 <img
     src="/assets/markdown//image1.png"
