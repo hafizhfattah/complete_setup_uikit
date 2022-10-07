@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
-import 'package:opening_screen/page/onboarding_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'page/home_page.dart';
+import 'page/onboarding_page.dart';
 
 void main() async {
   WidgetsBinding widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
