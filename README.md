@@ -1,10 +1,10 @@
-### 📦 **OnBoarding App**
+### 📦 **Complete Setup UIKit**
 
 OnBoarding App Is Fast Template For Opening App
 Made With Flutter
 
 ### 🎁 **Fiture**
-- Icon Logo
+- App Logo
 - App Name
 - Splash Screen
 - Custom TabBar
