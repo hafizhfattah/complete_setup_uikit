@@ -1,6 +1,6 @@
 ### 📦 **Complete Setup UIKit**
 
-OnBoarding App Is Fast Template For Opening App
+This is a Complete Template for Starting an App
 Made With Flutter
 
 ### 🎁 **Fiture**
